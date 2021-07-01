@@ -1,0 +1,3 @@
+.PHONY: run
+run:
+	./src/gradlew.bat desktop:run -p src
